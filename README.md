@@ -8,4 +8,4 @@
 6. ng generate class Todo --spec  :-> for generating the class.
 7. ng generate service TodoData   :-> for creating the service.
 8. ng serve :-> command for run server
-9. open browser and enter 'http://localhost:4200/' to address bar
+9. open browser and enter 'http://localhost:4200/' into address bar
