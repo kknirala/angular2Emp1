@@ -4,7 +4,7 @@
 2. ng version
 3. ng new todo-app
 4. >cd todo-app
-5. ng serve
+5. ng serve ,  npm run serve.dev
 6. ng generate class Todo --spec  :-> for generating the class.
 7. ng generate service TodoData   :-> for creating the service.
 8. ng serve :-> command for run server
